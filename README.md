@@ -22,4 +22,7 @@ After changing my type i have done some insights based on the dataset.
 And many more 
 Finally i have Created a Dashborad in Excel with the help of insights from postgres sql.  
 
+Dashboard Preview
+
+
 
