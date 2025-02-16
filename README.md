@@ -23,6 +23,6 @@ And many more
 Finally i have Created a Dashborad in Excel with the help of insights from postgres sql.  
 
 Dashboard Preview
-
+![image](https://github.com/nirdeshbandi/Electric_Vehicle_Population_Data/blob/f70d5d3a7ab65b85da1a739b43108683131b9c0c/EVP_Screen_Shot.png)
 
 
