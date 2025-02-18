@@ -14,7 +14,7 @@ HOW I APPROACHED TO COME WITH THE SOLUTION
 5.At last i have finally got to change the type to Text to Numeric.
 
 After changing my type i have done some insights based on the dataset.
-1.counting total rows //223968
+1.counting total rows #223968
 2.Distribution of EV Types
 3.Top 5 Cities with Most EVs
 4.Average Electric Range by Make
