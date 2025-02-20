@@ -8,7 +8,7 @@ During this project i have experienced many problems like
 
 HOW I APPROACHED TO COME WITH THE SOLUTION
 1.We have to check the possible special characters with the querys
-2.after the checking the special characters if it is present we have to replace or remove if it doesnt then nothing wrong with the data
+2.after checking the special characters if it is present we have to replace or remove if it doesnt then nothing wrong with data
 3.In my case there have been NA values because during my cleaning process, i have replaced blank spaces with NA.
 4.so i have removed all NA by update statement and replaced the special characters with null values.
 5.At last i have finally got to change the type to Text to Numeric.
